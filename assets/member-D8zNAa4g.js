@@ -1,1 +1,0 @@
-import{c as l,a,w as s,u as t,o as r,E as o,b as n,d as u}from"./index-CtOuAHr-.js";const _={__name:"member",setup(c){return(m,e)=>(r(),l("div",null,[a(t(u),{class:"publication",justify:"center"},{default:s(()=>[a(t(o),{sm:23,xs:23,md:20,xl:20,lg:20},{default:s(()=>e[0]||(e[0]=[n("h1",null,"Member",-1)])),_:1})]),_:1})]))}};export{_ as default};
