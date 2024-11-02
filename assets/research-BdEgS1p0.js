@@ -1,1 +1,0 @@
-import{c as l,a,w as s,u as t,o,E as r,b as n,d as c}from"./index-BghDKQ2a.js";const _={__name:"research",setup(u){return(i,e)=>(o(),l("div",null,[a(t(c),{class:"publication",justify:"center"},{default:s(()=>[a(t(r),{sm:23,xs:23,md:20,xl:20,lg:20},{default:s(()=>e[0]||(e[0]=[n("h1",null,"Piblication",-1)])),_:1})]),_:1})]))}};export{_ as default};
