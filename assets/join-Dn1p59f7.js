@@ -1,0 +1,1 @@
+import{c as l,a,w as s,u as t,o,E as n,b as r,d as u}from"./index-BEBvUM8n.js";const _={__name:"join",setup(c){return(i,e)=>(o(),l("div",null,[a(t(u),{class:"publication",justify:"center"},{default:s(()=>[a(t(n),{sm:23,xs:23,md:20,xl:20,lg:20},{default:s(()=>e[0]||(e[0]=[r("h1",null,"Join",-1)])),_:1})]),_:1})]))}};export{_ as default};
