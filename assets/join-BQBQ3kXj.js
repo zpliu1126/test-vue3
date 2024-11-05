@@ -1,0 +1,1 @@
+import{c as l,d as a,w as s,e as t,f as o,E as n,g as r,h as u}from"./index-CnnYvp6f.js";const f={__name:"join",setup(c){return(i,e)=>(o(),l("div",null,[a(t(u),{class:"publication",justify:"center"},{default:s(()=>[a(t(n),{sm:23,xs:23,md:20,xl:20,lg:20},{default:s(()=>e[0]||(e[0]=[r("h1",null,"Join",-1)])),_:1})]),_:1})]))}};export{f as default};
