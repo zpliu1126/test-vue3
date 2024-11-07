@@ -1,1 +1,0 @@
-import{c as l,d as a,w as s,e as t,f as r,E as o,g as n,h as u}from"./index-CnnYvp6f.js";const f={__name:"member",setup(c){return(m,e)=>(r(),l("div",null,[a(t(u),{class:"publication",justify:"center"},{default:s(()=>[a(t(o),{sm:23,xs:23,md:20,xl:20,lg:20},{default:s(()=>e[0]||(e[0]=[n("h1",null,"Member",-1)])),_:1})]),_:1})]))}};export{f as default};
